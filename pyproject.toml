@@ -1,0 +1,7 @@
+[project]
+name = "cosmorex-bot"
+version = "1.0.0"
+requires-python = ">=3.11"
+dependencies = [
+    "aiogram>=3.7,<4",
+]

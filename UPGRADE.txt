@@ -1,0 +1,6 @@
+COSMOREX v3.2 MULTICYCLE
+
+Распаковать поверх проекта.
+Файл cosmorex_survey.db не удалять.
+Запуск: bash restart.sh
+Проверка в Telegram: /start
